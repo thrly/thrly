@@ -6,6 +6,4 @@ I'm Oliver Thurley and I like making things...
 - ⌨️ I made a split keyboard, [TEMPEST](https://github.com/thrly/tempest?tab=readme-ov-file#tempest)
 - 📫 How to reach me: o.thrly \[at] gmail.com / [website](https://thrly.github.io/)
 
-📄 [Find my CV here](https://thrly.github.io/cv/outputs/cv)
-
 :octocat: [GitHub Foundations Certification](https://www.credly.com/badges/8f2ca183-49d2-426a-8483-cbdb8f4efdbd/public_url)
